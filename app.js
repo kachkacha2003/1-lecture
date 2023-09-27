@@ -1,7 +1,7 @@
 // 1)დაწერე პროგრამა რომელიც კონსოლში გამოიტანს "Hello World" -ს.
 
 //Write a program to print "Hello, World!" to the console. 
-
+// console.log("hello world");
 //console.log(7%5);
 
 // 2)შექმენით ცვლადი და მიანიჭეთ მას რიცხვი. დაბეჭდეთ ცვლადის მნიშვნელობა.
@@ -28,7 +28,7 @@
 
 // )დაწერეთ პროგრამა, რომელიც გამოაკლებს ორ რიცხვს ერთმანეთს და აჩვენებს შედეგს.
 
-//Write a program to subtract, two numbers and display the result. 
+
 
 // let num1=6;
 // let num2=7;
